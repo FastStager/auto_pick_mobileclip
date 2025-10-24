@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+torch
+Pillow
+
+git+https://github.com/mlfoundations/open_clip.git
+git+https://github.com/apple/ml-mobileclip
